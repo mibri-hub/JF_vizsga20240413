@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    background-color: #eef2ff;
+}
+nav img{
+    width: 25px;
+    border:1px solid #3730a3;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+footer{ 
+    margin-top: 1rem;
+    border-top: 1px solid gray;
+    text-align: center;
+  }
+  .custom-btn {
+    background-color: darkgray; 
+    color: #fff; 
+    border: none; 
+  }
+  
+  .custom-btn:hover {
+    background-color: gray;
+  }
+  .col-md-2 p{
+    text-align: center;
+    color:#3730a3
+  }
+  
